@@ -12,7 +12,7 @@ import express, {
 
 import { TaskModel } from "./model/dbModels/taskDbModel";
 
-import {schema} from "./GraphQL/mainGraphQLSchema";
+import { graphQLSchema } from "./GraphQL/mainGraphQLSchema";
 
 import bodyParser from "body-parser";
 
@@ -26,7 +26,7 @@ databaseConnection();
 app.use(
   "/graphql",
   graphqlHTTP({
-    schema,
+    schema: graphQLSchema,
     graphiql: true,
   })
 );
