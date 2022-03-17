@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node dist/app.js",
     "dev": "nodemon src/app.ts",
-    "build": "tsc -project ./"
+    "build": "tsc -project ./",
+    "seed": "node dist/model/dbSeeders/index.js"
   },
   "keywords": [],
   "author": "",
@@ -26,7 +27,6 @@
     "graphql": "^16.3.0",
     "graphql-tag": "^2.12.6",
     "graphql-tools": "^8.2.1",
-    "lodash.merge": "^4.6.2",
     "mongoose": "^6.2.6"
   }
 }

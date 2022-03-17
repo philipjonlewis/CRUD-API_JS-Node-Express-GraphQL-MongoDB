@@ -1,0 +1,252 @@
+[
+  {
+    "user": { "$oid": "62332916fc13ae554f000640" },
+    "projectName": "Greenlam",
+    "projectDescription": "Unsp inj intrinsic msl/tnd at ank/ft level, r foot, sequela"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000641" },
+    "projectName": "Viva",
+    "projectDescription": "Pre-exist hyp heart disease comp pregnancy, third trimester"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000642" },
+    "projectName": "Konklab",
+    "projectDescription": "Oth fx head/neck of r femr, 7thQ"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000643" },
+    "projectName": "Lotstring",
+    "projectDescription": "Other forms of leptospirosis"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000644" },
+    "projectName": "Sonsing",
+    "projectDescription": "Drug induced acute pancreatitis with uninfected necrosis"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000645" },
+    "projectName": "Lotlux",
+    "projectDescription": "Laceration of left quadriceps musc/fasc/tend, sequela"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000646" },
+    "projectName": "Y-find",
+    "projectDescription": "Adverse effect of loop [high-ceiling] diuretics, sequela"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000647" },
+    "projectName": "Redhold",
+    "projectDescription": "Breakdown (mechanical) of int fix of left humerus, sequela"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000648" },
+    "projectName": "Trippledex",
+    "projectDescription": "Adult neglect or abandonment, confirmed"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000649" },
+    "projectName": "Y-Solowarm",
+    "projectDescription": "Sltr-haris Type I physl fx upr end unsp fibula, 7thD"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f00064a" },
+    "projectName": "Namfix",
+    "projectDescription": "Cicatricial entropion of unspecified eye, unspecified eyelid"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f00064b" },
+    "projectName": "Tresom",
+    "projectDescription": "Unspecified superficial injury of right thumb, subs encntr"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f00064c" },
+    "projectName": "Temp",
+    "projectDescription": "Stable burst fracture of first thoracic vertebra, sequela"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f00064d" },
+    "projectName": "Cardguard",
+    "projectDescription": "Wheelchair (powered) colliding w stationary object, init"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f00064e" },
+    "projectName": "Y-Solowarm",
+    "projectDescription": "Mech compl of cardiac and vascular devices and implnt, subs"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f00064f" },
+    "projectName": "Fixflex",
+    "projectDescription": "Residual stage of open-angle glaucoma, left eye"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000650" },
+    "projectName": "Regrant",
+    "projectDescription": "Type 2 diab with severe nonp rtnop with macular edema, l eye"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000651" },
+    "projectName": "Konklab",
+    "projectDescription": "Asphyxiation due to being trapped in bed linens"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000652" },
+    "projectName": "Stronghold",
+    "projectDescription": "Foreign body granuloma of soft tissue, NEC, hand"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000653" },
+    "projectName": "Quo Lux",
+    "projectDescription": "Insect bite (nonvenomous), left lesser toe(s), sequela"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000654" },
+    "projectName": "Cardify",
+    "projectDescription": "Intcran inj w loss of consciousness of 31-59 min"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000655" },
+    "projectName": "Asoka",
+    "projectDescription": "Unsp fx upper end of unsp humerus, subs for fx w nonunion"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000656" },
+    "projectName": "Viva",
+    "projectDescription": "Oth diabetes w mild nonprlf diabetic rtnop w macular edema"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000657" },
+    "projectName": "Konklux",
+    "projectDescription": "Crushing injury of left wrist, subsequent encounter"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000658" },
+    "projectName": "Quo Lux",
+    "projectDescription": "Unspecified acquired deformity of left lower leg"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000659" },
+    "projectName": "Aerified",
+    "projectDescription": "Gastric diverticulum"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f00065a" },
+    "projectName": "Temp",
+    "projectDescription": "Subacute osteomyelitis, unspecified site"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f00065b" },
+    "projectName": "Cookley",
+    "projectDescription": "Nondisp spiral fx shaft of rad, l arm, 7thH"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f00065c" },
+    "projectName": "Stim",
+    "projectDescription": "Unsp traum nondisp spondylolysis of 7th cervcal vert, 7thB"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f00065d" },
+    "projectName": "Fix San",
+    "projectDescription": "Specific developmental disorder of motor function"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f00065e" },
+    "projectName": "Subin",
+    "projectDescription": "Theater (live) as place"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f00065f" },
+    "projectName": "Asoka",
+    "projectDescription": "Contusion of unspecified index finger with damage to nail"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000660" },
+    "projectName": "Biodex",
+    "projectDescription": "Age-rel osteopor w crnt path fx, unsp ank/ft, 7thP"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000661" },
+    "projectName": "Keylex",
+    "projectDescription": "Displ spiral fx shaft of unsp femr, 7thC"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000662" },
+    "projectName": "Ronstring",
+    "projectDescription": "Poisoning by unsp agents aff the cardiovasc sys, acc, init"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000663" },
+    "projectName": "Solarbreeze",
+    "projectDescription": "Benign neoplasm of ureter"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000664" },
+    "projectName": "Prodder",
+    "projectDescription": "Inj oth musc/tend at lower leg level, right leg, sequela"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000665" },
+    "projectName": "Alphazap",
+    "projectDescription": "Matern care for damag to fts from viral dis in mother, fts5"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000666" },
+    "projectName": "Tempsoft",
+    "projectDescription": "Diseases of the resp sys comp pregnancy, third trimester"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000667" },
+    "projectName": "Toughjoyfax",
+    "projectDescription": "Nondisp suprcndl fx w intrcndl extn low end unsp femr, 7thF"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000668" },
+    "projectName": "Rank",
+    "projectDescription": "Other snow-ski accident, sequela"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000669" },
+    "projectName": "Zathin",
+    "projectDescription": "Poisoning by saline and osmotic laxatives, accidental"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f00066a" },
+    "projectName": "Bytecard",
+    "projectDescription": "Ped w convey injured in collision w pedl cyc, unsp, init"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f00066b" },
+    "projectName": "Span",
+    "projectDescription": "Tributary (branch) retinal vein occlusion, left eye, stable"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f00066c" },
+    "projectName": "Biodex",
+    "projectDescription": "Corrosion of second degree of left lower leg, init encntr"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f00066d" },
+    "projectName": "Konklab",
+    "projectDescription": "Nondisp fx of greater trochanter of unsp femr, 7thD"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f00066e" },
+    "projectName": "Zaam-Dox",
+    "projectDescription": "Unsp opn wnd unsp frnt wall of thrx w/o penet thor cav, subs"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f00066f" },
+    "projectName": "Cookley",
+    "projectDescription": "Nondisp spiral fx shaft of r fibula, 7thF"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000670" },
+    "projectName": "Ventosanzap",
+    "projectDescription": "Unspecified injury of elbow"
+  },
+  {
+    "user": { "$oid": "62332916fc13ae554f000671" },
+    "projectName": "Alphazap",
+    "projectDescription": "Calcium deposit in bursa, wrist"
+  }
+]

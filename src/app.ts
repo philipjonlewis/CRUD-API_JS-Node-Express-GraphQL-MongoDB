@@ -1,7 +1,7 @@
 import "dotenv/config";
 import { graphqlHTTP } from "express-graphql";
 import { databaseConnection } from "./model/dbConnection";
-
+import { masterSeeder } from "./model/dbSeeders/dbSeeder";
 import express, {
   Application,
   NextFunction,
@@ -17,7 +17,9 @@ import { graphQLSchema } from "./GraphQL/mainGraphQLSchema";
 import bodyParser from "body-parser";
 
 const app: Application = express();
-databaseConnection();
+databaseConnection().then(() => {
+  masterSeeder();
+});
 
 // app.get("/", (req: Request, res: Response) => {
 //   res.send("Hello");

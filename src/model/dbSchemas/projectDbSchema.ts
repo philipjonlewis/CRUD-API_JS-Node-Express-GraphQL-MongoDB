@@ -11,14 +11,7 @@ export const projectDbSchema = new Schema(
       type: String,
       required: [true, "All projects must have a name"],
     },
-    dateOfDeadline: { type: Date, required: true },
     projectDescription: { type: String },
-    projectImage: { type: String },
-    natureOfProject: {
-      type: String,
-      required: [true, "All projects must have a category"],
-    },
-    phases: [{ type: String, ref: "phase" }],
   },
   { timestamps: true }
 );
