@@ -2,19 +2,23 @@ import gql from "graphql-tag";
 
 export const typeDefs = gql`
   type Query {
-    phases: [Phase]
-    phase(_id: ID!): Phase
+    tasks: [Task]
+    task(_id: ID!): Task
   }
 
   type Mutation {
-    createPhase(input: PhaseMutation): Phase
-    updatePhase(input: PhaseMutation): Phase
-    deletePhase: String
+    createTask(input: PhaseMutation): Task
+    updateTask(input: PhaseMutation): Task
+    # deleteTask(input: _id:ID): String
   }
 
-  type Phase {
+  type Task {
     _id: ID!
-    phaseName: String
+    dateOfDeadline: String
+    isCompleted: Boolean
+    isPriority: Boolean
+    isLapsed: Boolean
+    content: String
   }
 
   input PhaseMutation {

@@ -1,7 +1,7 @@
-import { userModelSeeder } from "./userSeeder";
-import { projectModelSeeder } from "./projectSeeder";
+// import { userModelSeeder } from "./userSeeder";
+// import { taskModelSeeder } from "./taskSeeder";
 
-export const masterSeeder = () => {
-  userModelSeeder();
-  projectModelSeeder();
-};
+// export const masterSeeder = () => {
+//   // userModelSeeder();
+//   // projectModelSeeder();
+// };
