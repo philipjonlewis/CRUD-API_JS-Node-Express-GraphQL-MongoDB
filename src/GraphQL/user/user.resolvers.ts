@@ -11,8 +11,20 @@ export const resolvers = {
     },
   },
   Mutation: {
-    createUser: (parent: any, args: any, context: any, info: any) => {
-      return UserModel.find({});
+    createUser: async (parent: any, args: any, context: any, info: any) => {
+      const { firstName, lastName, username, password, email } = args.input;
+      console.log(args.input);
+      const newUser = await UserModel.create({
+        firstName,
+        lastName,
+        username,
+        password,
+        email,
+      });
+
+      console.log(newUser);
+
+      return newUser;
     },
   },
 };
