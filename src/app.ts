@@ -18,27 +18,6 @@ import bodyParser from "body-parser";
 const app: Application = express();
 databaseConnection();
 
-// app.get("/", (req: Request, res: Response) => {
-//   res.send("Hello");
-// });
-
-// UserModel.insertMany([
-//   {
-//     firstName: "Philip",
-//     lastName: "Lewis",
-//     username: "philipjonlewis",
-//     password: "PhilipLewis713!",
-//     email: "pihlipjonlewis@gmail.com",
-//   },
-//   {
-//     firstName: "Jon",
-//     lastName: "Echavez",
-//     username: "jonechavez",
-//     password: "DaylindaLewis814!",
-//     email: "joechavez@gmail.com",
-//   },
-// ]);
-
 app.use(
   "/graphql",
   graphqlHTTP({

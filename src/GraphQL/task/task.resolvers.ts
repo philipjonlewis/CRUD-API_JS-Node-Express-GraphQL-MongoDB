@@ -6,7 +6,10 @@ export const resolvers = {
       return TaskModel.find({});
     },
     task: (parent: any, args: any, context: any, info: any) => {
+      console.dir(parent);
       console.log(args);
+      // console.log(context);
+      // console.log(info);
       return TaskModel.findOne({ _id: args._id });
     },
   },
