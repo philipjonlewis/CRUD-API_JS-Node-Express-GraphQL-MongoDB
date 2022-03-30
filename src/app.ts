@@ -13,8 +13,6 @@ import { UserModel } from "./model/dbModels/userDbModel";
 
 import { graphQLSchema } from "./GraphQL/mainGraphQLSchema";
 
-import bodyParser from "body-parser";
-
 const app: Application = express();
 databaseConnection();
 
